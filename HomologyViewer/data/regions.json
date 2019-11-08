@@ -1,0 +1,2397 @@
+{
+    "bitoffsets": [
+        9,
+        5,
+        0
+    ],
+    "nodes": [
+        {
+            "acronym": "root",
+            "fullname": "root",
+            "uid": [
+                512,
+                0,
+                0,
+                0
+            ],
+            "level": 0,
+            "children": [
+                1,
+                30,
+                33,
+                56,
+                64,
+                73,
+                90,
+                114,
+                128,
+                134,
+                145,
+                154,
+                168
+            ],
+            "aba_acronym": "root",
+            "aba_fullname": "root"
+        },
+        {
+            "acronym": "Cerebellum",
+            "fullname": "Cerebellum",
+            "uid": [
+                544,
+                0,
+                0,
+                0
+            ],
+            "level": 1,
+            "children": [
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29
+            ],
+            "aba_acronym": "CB",
+            "aba_fullname": "Cerebellum"
+        },
+        {
+            "acronym": "ANcr1gr",
+            "fullname": "Cerebellum_ANcr1gr",
+            "uid": [
+                545,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "ANcr1gr",
+            "aba_fullname": "Crus 1, granular layer"
+        },
+        {
+            "acronym": "ANcr1mo",
+            "fullname": "Cerebellum_ANcr1mo",
+            "uid": [
+                546,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "ANcr1mo",
+            "aba_fullname": "Crus 1, molecular layer"
+        },
+        {
+            "acronym": "ANcr2gr",
+            "fullname": "Cerebellum_ANcr2gr",
+            "uid": [
+                547,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "ANcr2gr",
+            "aba_fullname": "Crus 2, granular layer"
+        },
+        {
+            "acronym": "ANcr2mo",
+            "fullname": "Cerebellum_ANcr2mo",
+            "uid": [
+                548,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "ANcr2mo",
+            "aba_fullname": "Crus 2, molecular layer"
+        },
+        {
+            "acronym": "CENT2gr",
+            "fullname": "Cerebellum_CENT2gr",
+            "uid": [
+                549,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "CENT2gr",
+            "aba_fullname": "Lobule II, granular layer"
+        },
+        {
+            "acronym": "CENT2mo",
+            "fullname": "Cerebellum_CENT2mo",
+            "uid": [
+                550,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "CENT2mo",
+            "aba_fullname": "Lobule II, molecular layer"
+        },
+        {
+            "acronym": "CENT3gr",
+            "fullname": "Cerebellum_CENT3gr",
+            "uid": [
+                551,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "CENT3gr",
+            "aba_fullname": "Lobule III, granular layer"
+        },
+        {
+            "acronym": "CENT3mo",
+            "fullname": "Cerebellum_CENT3mo",
+            "uid": [
+                552,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "CENT3mo",
+            "aba_fullname": "Lobule III, molecular layer"
+        },
+        {
+            "acronym": "COPYgr",
+            "fullname": "Cerebellum_COPYgr",
+            "uid": [
+                553,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "COPYgr",
+            "aba_fullname": "Copula pyramidis, granular layer"
+        },
+        {
+            "acronym": "COPYmo",
+            "fullname": "Cerebellum_COPYmo",
+            "uid": [
+                554,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "COPYmo",
+            "aba_fullname": "Copula pyramidis, molecular layer"
+        },
+        {
+            "acronym": "CUL4,5gr",
+            "fullname": "Cerebellum_CUL4,5gr",
+            "uid": [
+                555,
+                0,
+                0,
+                0
+            ],
+            "level": 2
+        },
+        {
+            "acronym": "CUL4,5mo",
+            "fullname": "Cerebellum_CUL4,5mo",
+            "uid": [
+                556,
+                0,
+                0,
+                0
+            ],
+            "level": 2
+        },
+        {
+            "acronym": "DECgr",
+            "fullname": "Cerebellum_DECgr",
+            "uid": [
+                557,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "DECgr",
+            "aba_fullname": "Declive (VI), granular layer"
+        },
+        {
+            "acronym": "DECmo",
+            "fullname": "Cerebellum_DECmo",
+            "uid": [
+                558,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "DECmo",
+            "aba_fullname": "Declive (VI), molecular layer"
+        },
+        {
+            "acronym": "FN",
+            "fullname": "Cerebellum_FN",
+            "uid": [
+                559,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "FN",
+            "aba_fullname": "Fastigial nucleus"
+        },
+        {
+            "acronym": "FOTUgr",
+            "fullname": "Cerebellum_FOTUgr",
+            "uid": [
+                560,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "FOTUgr",
+            "aba_fullname": "Folium-tuber vermis (VII), granular layer"
+        },
+        {
+            "acronym": "FOTUmo",
+            "fullname": "Cerebellum_FOTUmo",
+            "uid": [
+                561,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "FOTUmo",
+            "aba_fullname": "Folium-tuber vermis (VII), molecular layer"
+        },
+        {
+            "acronym": "IP",
+            "fullname": "Cerebellum_IP",
+            "uid": [
+                562,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "IP",
+            "aba_fullname": "Interposed nucleus"
+        },
+        {
+            "acronym": "NODgr",
+            "fullname": "Cerebellum_NODgr",
+            "uid": [
+                563,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "NODgr",
+            "aba_fullname": "Nodulus (X), granular layer"
+        },
+        {
+            "acronym": "NODmo",
+            "fullname": "Cerebellum_NODmo",
+            "uid": [
+                564,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "NODmo",
+            "aba_fullname": "Nodulus (X), molecular layer"
+        },
+        {
+            "acronym": "PRMgr",
+            "fullname": "Cerebellum_PRMgr",
+            "uid": [
+                565,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "PRMgr",
+            "aba_fullname": "Paramedian lobule, granular layer"
+        },
+        {
+            "acronym": "PRMmo",
+            "fullname": "Cerebellum_PRMmo",
+            "uid": [
+                566,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "PRMmo",
+            "aba_fullname": "Paramedian lobule, molecular layer"
+        },
+        {
+            "acronym": "PYRgr",
+            "fullname": "Cerebellum_PYRgr",
+            "uid": [
+                567,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "PYRgr",
+            "aba_fullname": "Pyramus (VIII), granular layer"
+        },
+        {
+            "acronym": "PYRmo",
+            "fullname": "Cerebellum_PYRmo",
+            "uid": [
+                568,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "PYRmo",
+            "aba_fullname": "Pyramus (VIII), molecular layer"
+        },
+        {
+            "acronym": "SIMgr",
+            "fullname": "Cerebellum_SIMgr",
+            "uid": [
+                569,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "SIMgr",
+            "aba_fullname": "Simple lobule, granular layer"
+        },
+        {
+            "acronym": "SIMmo",
+            "fullname": "Cerebellum_SIMmo",
+            "uid": [
+                570,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "SIMmo",
+            "aba_fullname": "Simple lobule, molecular layer"
+        },
+        {
+            "acronym": "UVUgr",
+            "fullname": "Cerebellum_UVUgr",
+            "uid": [
+                571,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "UVUgr",
+            "aba_fullname": "Uvula (IX), granular layer"
+        },
+        {
+            "acronym": "UVUmo",
+            "fullname": "Cerebellum_UVUmo",
+            "uid": [
+                572,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "UVUmo",
+            "aba_fullname": "Uvula (IX), molecular layer"
+        },
+        {
+            "acronym": "CorticalSubplate",
+            "fullname": "CorticalSubplate",
+            "uid": [
+                576,
+                0,
+                0,
+                0
+            ],
+            "level": 1,
+            "children": [
+                31,
+                32
+            ],
+            "aba_acronym": "CTXsp",
+            "aba_fullname": "Cortical subplate"
+        },
+        {
+            "acronym": "CLA",
+            "fullname": "CorticalSubplate_CLA",
+            "uid": [
+                577,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "CLA",
+            "aba_fullname": "Claustrum"
+        },
+        {
+            "acronym": "EPd",
+            "fullname": "CorticalSubplate_EPd",
+            "uid": [
+                578,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "EPd",
+            "aba_fullname": "Endopiriform nucleus, dorsal part"
+        },
+        {
+            "acronym": "HippocampalFormation",
+            "fullname": "HippocampalFormation",
+            "uid": [
+                608,
+                0,
+                0,
+                0
+            ],
+            "level": 1,
+            "children": [
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55
+            ],
+            "aba_acronym": "HPF",
+            "aba_fullname": "Hippocampal formation"
+        },
+        {
+            "acronym": "CA1slm",
+            "fullname": "HippocampalFormation_CA1slm",
+            "uid": [
+                609,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "CA1slm",
+            "aba_fullname": "Field CA1, stratum lacunosum-moleculare"
+        },
+        {
+            "acronym": "CA1so",
+            "fullname": "HippocampalFormation_CA1so",
+            "uid": [
+                610,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "CA1so",
+            "aba_fullname": "Field CA1, stratum oriens"
+        },
+        {
+            "acronym": "CA1sp",
+            "fullname": "HippocampalFormation_CA1sp",
+            "uid": [
+                611,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "CA1sp",
+            "aba_fullname": "Field CA1, pyramidal layer"
+        },
+        {
+            "acronym": "CA1sr",
+            "fullname": "HippocampalFormation_CA1sr",
+            "uid": [
+                612,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "CA1sr",
+            "aba_fullname": "Field CA1, stratum radiatum"
+        },
+        {
+            "acronym": "CA2slm",
+            "fullname": "HippocampalFormation_CA2slm",
+            "uid": [
+                613,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "CA2slm",
+            "aba_fullname": "Field CA2, stratum lacunosum-moleculare"
+        },
+        {
+            "acronym": "CA2so",
+            "fullname": "HippocampalFormation_CA2so",
+            "uid": [
+                614,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "CA2so",
+            "aba_fullname": "Field CA2, stratum oriens"
+        },
+        {
+            "acronym": "CA2sp",
+            "fullname": "HippocampalFormation_CA2sp",
+            "uid": [
+                615,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "CA2sp",
+            "aba_fullname": "Field CA2, pyramidal layer"
+        },
+        {
+            "acronym": "CA2sr",
+            "fullname": "HippocampalFormation_CA2sr",
+            "uid": [
+                616,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "CA2sr",
+            "aba_fullname": "Field CA2, stratum radiatum"
+        },
+        {
+            "acronym": "CA3slm",
+            "fullname": "HippocampalFormation_CA3slm",
+            "uid": [
+                617,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "CA3slm",
+            "aba_fullname": "Field CA3, stratum lacunosum-moleculare"
+        },
+        {
+            "acronym": "CA3slu",
+            "fullname": "HippocampalFormation_CA3slu",
+            "uid": [
+                618,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "CA3slu",
+            "aba_fullname": "Field CA3, stratum lucidum"
+        },
+        {
+            "acronym": "CA3so",
+            "fullname": "HippocampalFormation_CA3so",
+            "uid": [
+                619,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "CA3so",
+            "aba_fullname": "Field CA3, stratum oriens"
+        },
+        {
+            "acronym": "CA3sp",
+            "fullname": "HippocampalFormation_CA3sp",
+            "uid": [
+                620,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "CA3sp",
+            "aba_fullname": "Field CA3, pyramidal layer"
+        },
+        {
+            "acronym": "CA3sr",
+            "fullname": "HippocampalFormation_CA3sr",
+            "uid": [
+                621,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "CA3sr",
+            "aba_fullname": "Field CA3, stratum radiatum"
+        },
+        {
+            "acronym": "DGgrInf",
+            "fullname": "HippocampalFormation_DGgrInf",
+            "uid": [
+                622,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "DGgrInf",
+            "aba_fullname": "DGgrInf"
+        },
+        {
+            "acronym": "DGgrSup",
+            "fullname": "HippocampalFormation_DGgrSup",
+            "uid": [
+                623,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "DGgrSup",
+            "aba_fullname": "DGgrSup"
+        },
+        {
+            "acronym": "DGmoInf",
+            "fullname": "HippocampalFormation_DGmoInf",
+            "uid": [
+                624,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "DGmoInf",
+            "aba_fullname": "DGmoInf"
+        },
+        {
+            "acronym": "DGmoSup",
+            "fullname": "HippocampalFormation_DGmoSup",
+            "uid": [
+                625,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "DGmoSup",
+            "aba_fullname": "DGmoSup"
+        },
+        {
+            "acronym": "DGmoV",
+            "fullname": "HippocampalFormation_DGmoV",
+            "uid": [
+                626,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "DGmoV",
+            "aba_fullname": "DGmoV"
+        },
+        {
+            "acronym": "DGpo",
+            "fullname": "HippocampalFormation_DGpo",
+            "uid": [
+                627,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "DGpo",
+            "aba_fullname": "DGpo"
+        },
+        {
+            "acronym": "DGpoV",
+            "fullname": "HippocampalFormation_DGpoV",
+            "uid": [
+                628,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "DGpoV",
+            "aba_fullname": "DGpoV"
+        },
+        {
+            "acronym": "DGspV",
+            "fullname": "HippocampalFormation_DGspV",
+            "uid": [
+                629,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "DGspV",
+            "aba_fullname": "DGspV"
+        },
+        {
+            "acronym": "SUB",
+            "fullname": "HippocampalFormation_SUB",
+            "uid": [
+                630,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "SUB",
+            "aba_fullname": "Subiculum"
+        },
+        {
+            "acronym": "Hypothalamus",
+            "fullname": "Hypothalamus",
+            "uid": [
+                640,
+                0,
+                0,
+                0
+            ],
+            "level": 1,
+            "children": [
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63
+            ],
+            "aba_acronym": "HY",
+            "aba_fullname": "Hypothalamus"
+        },
+        {
+            "acronym": "LHA",
+            "fullname": "Hypothalamus_LHA",
+            "uid": [
+                641,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "LHA",
+            "aba_fullname": "Lateral hypothalamic area"
+        },
+        {
+            "acronym": "LM",
+            "fullname": "Hypothalamus_LM",
+            "uid": [
+                642,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "LM",
+            "aba_fullname": "Lateral mammillary nucleus"
+        },
+        {
+            "acronym": "LPO",
+            "fullname": "Hypothalamus_LPO",
+            "uid": [
+                643,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "LPO",
+            "aba_fullname": "Lateral preoptic area"
+        },
+        {
+            "acronym": "PSTN",
+            "fullname": "Hypothalamus_PSTN",
+            "uid": [
+                644,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "PSTN",
+            "aba_fullname": "Parasubthalamic nucleus"
+        },
+        {
+            "acronym": "SO",
+            "fullname": "Hypothalamus_SO",
+            "uid": [
+                645,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "SO",
+            "aba_fullname": "Supraoptic nucleus"
+        },
+        {
+            "acronym": "STN",
+            "fullname": "Hypothalamus_STN",
+            "uid": [
+                646,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "STN",
+            "aba_fullname": "Subthalamic nucleus"
+        },
+        {
+            "acronym": "ZI",
+            "fullname": "Hypothalamus_ZI",
+            "uid": [
+                647,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "ZI",
+            "aba_fullname": "Zona incerta"
+        },
+        {
+            "acronym": "Isocortex",
+            "fullname": "Isocortex",
+            "uid": [
+                672,
+                0,
+                0,
+                0
+            ],
+            "level": 1,
+            "children": [
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72
+            ],
+            "aba_acronym": "Isocortex",
+            "aba_fullname": "Isocortex"
+        },
+        {
+            "acronym": "FRP",
+            "fullname": "Isocortex_FRP",
+            "uid": [
+                673,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "FRP",
+            "aba_fullname": "Frontal pole, cerebral cortex"
+        },
+        {
+            "acronym": "MO",
+            "fullname": "Isocortex_MO",
+            "uid": [
+                674,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "MO",
+            "aba_fullname": "Somatomotor areas"
+        },
+        {
+            "acronym": "ORB",
+            "fullname": "Isocortex_ORB",
+            "uid": [
+                675,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "ORB",
+            "aba_fullname": "Orbital area"
+        },
+        {
+            "acronym": "PTLp",
+            "fullname": "Isocortex_PTLp",
+            "uid": [
+                676,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "PTLp",
+            "aba_fullname": "Posterior parietal association areas"
+        },
+        {
+            "acronym": "RSPd",
+            "fullname": "Isocortex_RSPd",
+            "uid": [
+                677,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "RSPd",
+            "aba_fullname": "Retrosplenial area, dorsal part"
+        },
+        {
+            "acronym": "RSPv",
+            "fullname": "Isocortex_RSPv",
+            "uid": [
+                678,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "RSPv",
+            "aba_fullname": "Retrosplenial area, ventral part"
+        },
+        {
+            "acronym": "SS",
+            "fullname": "Isocortex_SS",
+            "uid": [
+                679,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "SS",
+            "aba_fullname": "Somatosensory areas"
+        },
+        {
+            "acronym": "VIS",
+            "fullname": "Isocortex_VIS",
+            "uid": [
+                680,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "VIS",
+            "aba_fullname": "Visual areas"
+        },
+        {
+            "acronym": "Midbrain",
+            "fullname": "Midbrain",
+            "uid": [
+                704,
+                0,
+                0,
+                0
+            ],
+            "level": 1,
+            "children": [
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89
+            ],
+            "aba_acronym": "MB",
+            "aba_fullname": "Midbrain"
+        },
+        {
+            "acronym": "APN",
+            "fullname": "Midbrain_APN",
+            "uid": [
+                705,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "APN",
+            "aba_fullname": "Anterior pretectal nucleus"
+        },
+        {
+            "acronym": "CUN",
+            "fullname": "Midbrain_CUN",
+            "uid": [
+                706,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "CUN",
+            "aba_fullname": "Cuneiform nucleus"
+        },
+        {
+            "acronym": "IC",
+            "fullname": "Midbrain_IC",
+            "uid": [
+                707,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "IC",
+            "aba_fullname": "Inferior colliculus"
+        },
+        {
+            "acronym": "MEV",
+            "fullname": "Midbrain_MEV",
+            "uid": [
+                708,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "MEV",
+            "aba_fullname": "Midbrain trigeminal nucleus"
+        },
+        {
+            "acronym": "MRN",
+            "fullname": "Midbrain_MRN",
+            "uid": [
+                709,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "MRN",
+            "aba_fullname": "Midbrain reticular nucleus"
+        },
+        {
+            "acronym": "NOT",
+            "fullname": "Midbrain_NOT",
+            "uid": [
+                710,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "NOT",
+            "aba_fullname": "Nucleus of the optic tract"
+        },
+        {
+            "acronym": "PAG",
+            "fullname": "Midbrain_PAG",
+            "uid": [
+                711,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "PAG",
+            "aba_fullname": "Periaqueductal gray"
+        },
+        {
+            "acronym": "PPN",
+            "fullname": "Midbrain_PPN",
+            "uid": [
+                712,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "PPN",
+            "aba_fullname": "Pedunculopontine nucleus"
+        },
+        {
+            "acronym": "PPT",
+            "fullname": "Midbrain_PPT",
+            "uid": [
+                713,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "PPT",
+            "aba_fullname": "Posterior pretectal nucleus"
+        },
+        {
+            "acronym": "RN",
+            "fullname": "Midbrain_RN",
+            "uid": [
+                714,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "RN",
+            "aba_fullname": "Red nucleus"
+        },
+        {
+            "acronym": "RR",
+            "fullname": "Midbrain_RR",
+            "uid": [
+                715,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "RR",
+            "aba_fullname": "Midbrain reticular nucleus, retrorubral area"
+        },
+        {
+            "acronym": "SCm",
+            "fullname": "Midbrain_SCm",
+            "uid": [
+                716,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "SCm",
+            "aba_fullname": "Superior colliculus, motor related"
+        },
+        {
+            "acronym": "SCs",
+            "fullname": "Midbrain_SCs",
+            "uid": [
+                717,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "SCs",
+            "aba_fullname": "Superior colliculus, sensory related"
+        },
+        {
+            "acronym": "SNc",
+            "fullname": "Midbrain_SNc",
+            "uid": [
+                718,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "SNc",
+            "aba_fullname": "Substantia nigra, compact part"
+        },
+        {
+            "acronym": "SNr",
+            "fullname": "Midbrain_SNr",
+            "uid": [
+                719,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "SNr",
+            "aba_fullname": "Substantia nigra, reticular part"
+        },
+        {
+            "acronym": "VTA",
+            "fullname": "Midbrain_VTA",
+            "uid": [
+                720,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "VTA",
+            "aba_fullname": "Ventral tegmental area"
+        },
+        {
+            "acronym": "Medulla",
+            "fullname": "Medulla",
+            "uid": [
+                736,
+                0,
+                0,
+                0
+            ],
+            "level": 1,
+            "children": [
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113
+            ],
+            "aba_acronym": "MY",
+            "aba_fullname": "Medulla"
+        },
+        {
+            "acronym": "AMB",
+            "fullname": "Medulla_AMB",
+            "uid": [
+                737,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "AMB",
+            "aba_fullname": "Nucleus ambiguus"
+        },
+        {
+            "acronym": "CU",
+            "fullname": "Medulla_CU",
+            "uid": [
+                738,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "CU",
+            "aba_fullname": "Cuneate nucleus"
+        },
+        {
+            "acronym": "ECU",
+            "fullname": "Medulla_ECU",
+            "uid": [
+                739,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "ECU",
+            "aba_fullname": "External cuneate nucleus"
+        },
+        {
+            "acronym": "GRN",
+            "fullname": "Medulla_GRN",
+            "uid": [
+                740,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "GRN",
+            "aba_fullname": "Gigantocellular reticular nucleus"
+        },
+        {
+            "acronym": "IO",
+            "fullname": "Medulla_IO",
+            "uid": [
+                741,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "IO",
+            "aba_fullname": "Inferior olivary complex"
+        },
+        {
+            "acronym": "IRN",
+            "fullname": "Medulla_IRN",
+            "uid": [
+                742,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "IRN",
+            "aba_fullname": "Intermediate reticular nucleus"
+        },
+        {
+            "acronym": "LAV",
+            "fullname": "Medulla_LAV",
+            "uid": [
+                743,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "LAV",
+            "aba_fullname": "Lateral vestibular nucleus"
+        },
+        {
+            "acronym": "LI",
+            "fullname": "Medulla_LI",
+            "uid": [
+                744,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "LI",
+            "aba_fullname": "LI"
+        },
+        {
+            "acronym": "LRN",
+            "fullname": "Medulla_LRN",
+            "uid": [
+                745,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "LRN",
+            "aba_fullname": "Lateral reticular nucleus"
+        },
+        {
+            "acronym": "MDRN",
+            "fullname": "Medulla_MDRN",
+            "uid": [
+                746,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "MDRN",
+            "aba_fullname": "Medullary reticular nucleus"
+        },
+        {
+            "acronym": "MV",
+            "fullname": "Medulla_MV",
+            "uid": [
+                747,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "MV",
+            "aba_fullname": "Medial vestibular nucleus"
+        },
+        {
+            "acronym": "MX",
+            "fullname": "Medulla_MX",
+            "uid": [
+                748,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "MX",
+            "aba_fullname": "MX"
+        },
+        {
+            "acronym": "NTS",
+            "fullname": "Medulla_NTS",
+            "uid": [
+                749,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "NTS",
+            "aba_fullname": "Nucleus of the solitary tract"
+        },
+        {
+            "acronym": "PARN",
+            "fullname": "Medulla_PARN",
+            "uid": [
+                750,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "PARN",
+            "aba_fullname": "Parvicellular reticular nucleus"
+        },
+        {
+            "acronym": "PGRNl",
+            "fullname": "Medulla_PGRNl",
+            "uid": [
+                751,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "PGRNl",
+            "aba_fullname": "Paragigantocellular reticular nucleus, lateral part"
+        },
+        {
+            "acronym": "SOL",
+            "fullname": "Medulla_SOL",
+            "uid": [
+                752,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "SOL",
+            "aba_fullname": "SOL"
+        },
+        {
+            "acronym": "SPIV",
+            "fullname": "Medulla_SPIV",
+            "uid": [
+                753,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "SPIV",
+            "aba_fullname": "Spinal vestibular nucleus"
+        },
+        {
+            "acronym": "SPVC",
+            "fullname": "Medulla_SPVC",
+            "uid": [
+                754,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "SPVC",
+            "aba_fullname": "Spinal nucleus of the trigeminal, caudal part"
+        },
+        {
+            "acronym": "SPVI",
+            "fullname": "Medulla_SPVI",
+            "uid": [
+                755,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "SPVI",
+            "aba_fullname": "Spinal nucleus of the trigeminal, interpolar part"
+        },
+        {
+            "acronym": "SPVO",
+            "fullname": "Medulla_SPVO",
+            "uid": [
+                756,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "SPVO",
+            "aba_fullname": "Spinal nucleus of the trigeminal, oral part"
+        },
+        {
+            "acronym": "SUV",
+            "fullname": "Medulla_SUV",
+            "uid": [
+                757,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "SUV",
+            "aba_fullname": "Superior vestibular nucleus"
+        },
+        {
+            "acronym": "VII",
+            "fullname": "Medulla_VII",
+            "uid": [
+                758,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "VII",
+            "aba_fullname": "Facial motor nucleus"
+        },
+        {
+            "acronym": "X",
+            "fullname": "Medulla_X",
+            "uid": [
+                759,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "X",
+            "aba_fullname": "X"
+        },
+        {
+            "acronym": "OlfactoryAreas",
+            "fullname": "OlfactoryAreas",
+            "uid": [
+                768,
+                0,
+                0,
+                0
+            ],
+            "level": 1,
+            "children": [
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127
+            ],
+            "aba_acronym": "OLF",
+            "aba_fullname": "Olfactory areas"
+        },
+        {
+            "acronym": "AOBgl",
+            "fullname": "OlfactoryAreas_AOBgl",
+            "uid": [
+                769,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "AOBgl",
+            "aba_fullname": "Accessory olfactory bulb, glomerular layer"
+        },
+        {
+            "acronym": "AOBgr",
+            "fullname": "OlfactoryAreas_AOBgr",
+            "uid": [
+                770,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "AOBgr",
+            "aba_fullname": "Accessory olfactory bulb, granular layer"
+        },
+        {
+            "acronym": "AOBmi",
+            "fullname": "OlfactoryAreas_AOBmi",
+            "uid": [
+                771,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "AOBmi",
+            "aba_fullname": "Accessory olfactory bulb, mitral layer"
+        },
+        {
+            "acronym": "AON1",
+            "fullname": "OlfactoryAreas_AON1",
+            "uid": [
+                772,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "AON1",
+            "aba_fullname": "Anterior olfactory nucleus, layer 1"
+        },
+        {
+            "acronym": "AON2",
+            "fullname": "OlfactoryAreas_AON2",
+            "uid": [
+                773,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "AON2",
+            "aba_fullname": "Anterior olfactory nucleus, layer 2"
+        },
+        {
+            "acronym": "MOBgl",
+            "fullname": "OlfactoryAreas_MOBgl",
+            "uid": [
+                774,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "MOBgl",
+            "aba_fullname": "Main olfactory bulb, glomerular layer"
+        },
+        {
+            "acronym": "MOBgr",
+            "fullname": "OlfactoryAreas_MOBgr",
+            "uid": [
+                775,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "MOBgr",
+            "aba_fullname": "Main olfactory bulb, granule layer"
+        },
+        {
+            "acronym": "MOBipl",
+            "fullname": "OlfactoryAreas_MOBipl",
+            "uid": [
+                776,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "MOBipl",
+            "aba_fullname": "Main olfactory bulb, inner plexiform layer"
+        },
+        {
+            "acronym": "MOBmi",
+            "fullname": "OlfactoryAreas_MOBmi",
+            "uid": [
+                777,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "MOBmi",
+            "aba_fullname": "Main olfactory bulb, mitral layer"
+        },
+        {
+            "acronym": "MOBopl",
+            "fullname": "OlfactoryAreas_MOBopl",
+            "uid": [
+                778,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "MOBopl",
+            "aba_fullname": "Main olfactory bulb, outer plexiform layer"
+        },
+        {
+            "acronym": "PIR1",
+            "fullname": "OlfactoryAreas_PIR1",
+            "uid": [
+                779,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "PIR1",
+            "aba_fullname": "Piriform area, molecular layer"
+        },
+        {
+            "acronym": "PIR2",
+            "fullname": "OlfactoryAreas_PIR2",
+            "uid": [
+                780,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "PIR2",
+            "aba_fullname": "Piriform area, pyramidal layer"
+        },
+        {
+            "acronym": "PIR3",
+            "fullname": "OlfactoryAreas_PIR3",
+            "uid": [
+                781,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "PIR3",
+            "aba_fullname": "Piriform area, polymorph layer"
+        },
+        {
+            "acronym": "Pallidum",
+            "fullname": "Pallidum",
+            "uid": [
+                800,
+                0,
+                0,
+                0
+            ],
+            "level": 1,
+            "children": [
+                129,
+                130,
+                131,
+                132,
+                133
+            ],
+            "aba_acronym": "PAL",
+            "aba_fullname": "Pallidum"
+        },
+        {
+            "acronym": "BST",
+            "fullname": "Pallidum_BST",
+            "uid": [
+                801,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "BST",
+            "aba_fullname": "Bed nuclei of the stria terminalis"
+        },
+        {
+            "acronym": "GPi",
+            "fullname": "Pallidum_GPi",
+            "uid": [
+                802,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "GPi",
+            "aba_fullname": "Globus pallidus, internal segment"
+        },
+        {
+            "acronym": "MA",
+            "fullname": "Pallidum_MA",
+            "uid": [
+                803,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "MA",
+            "aba_fullname": "Magnocellular nucleus"
+        },
+        {
+            "acronym": "NDB",
+            "fullname": "Pallidum_NDB",
+            "uid": [
+                804,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "NDB",
+            "aba_fullname": "Diagonal band nucleus"
+        },
+        {
+            "acronym": "SI",
+            "fullname": "Pallidum_SI",
+            "uid": [
+                805,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "SI",
+            "aba_fullname": "Substantia innominata"
+        },
+        {
+            "acronym": "Pons",
+            "fullname": "Pons",
+            "uid": [
+                832,
+                0,
+                0,
+                0
+            ],
+            "level": 1,
+            "children": [
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144
+            ],
+            "aba_acronym": "P",
+            "aba_fullname": "Pons"
+        },
+        {
+            "acronym": "LC",
+            "fullname": "Pons_LC",
+            "uid": [
+                833,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "LC",
+            "aba_fullname": "Locus ceruleus"
+        },
+        {
+            "acronym": "NLL",
+            "fullname": "Pons_NLL",
+            "uid": [
+                834,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "NLL",
+            "aba_fullname": "Nucleus of the lateral lemniscus"
+        },
+        {
+            "acronym": "PB",
+            "fullname": "Pons_PB",
+            "uid": [
+                835,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "PB",
+            "aba_fullname": "Parabrachial nucleus"
+        },
+        {
+            "acronym": "PG",
+            "fullname": "Pons_PG",
+            "uid": [
+                836,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "PG",
+            "aba_fullname": "Pontine gray"
+        },
+        {
+            "acronym": "PRNc",
+            "fullname": "Pons_PRNc",
+            "uid": [
+                837,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "PRNc",
+            "aba_fullname": "Pontine reticular nucleus, caudal part"
+        },
+        {
+            "acronym": "PRNr",
+            "fullname": "Pons_PRNr",
+            "uid": [
+                838,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "PRNr",
+            "aba_fullname": "Pontine reticular nucleus"
+        },
+        {
+            "acronym": "SOC",
+            "fullname": "Pons_SOC",
+            "uid": [
+                839,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "SOC",
+            "aba_fullname": "Superior olivary complex"
+        },
+        {
+            "acronym": "SUT",
+            "fullname": "Pons_SUT",
+            "uid": [
+                840,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "SUT",
+            "aba_fullname": "Supratrigeminal nucleus"
+        },
+        {
+            "acronym": "TRN",
+            "fullname": "Pons_TRN",
+            "uid": [
+                841,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "TRN",
+            "aba_fullname": "Tegmental reticular nucleus"
+        },
+        {
+            "acronym": "V",
+            "fullname": "Pons_V",
+            "uid": [
+                842,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "V",
+            "aba_fullname": "Motor nucleus of trigeminal"
+        },
+        {
+            "acronym": "Striatum",
+            "fullname": "Striatum",
+            "uid": [
+                864,
+                0,
+                0,
+                0
+            ],
+            "level": 1,
+            "children": [
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153
+            ],
+            "aba_acronym": "STR",
+            "aba_fullname": "Striatum"
+        },
+        {
+            "acronym": "ACBc",
+            "fullname": "Striatum_ACBc",
+            "uid": [
+                865,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "ACBc",
+            "aba_fullname": "ACBc"
+        },
+        {
+            "acronym": "ACBsh",
+            "fullname": "Striatum_ACBsh",
+            "uid": [
+                866,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "ACBsh",
+            "aba_fullname": "ACBsh"
+        },
+        {
+            "acronym": "CP",
+            "fullname": "Striatum_CP",
+            "uid": [
+                867,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "CP",
+            "aba_fullname": "Caudoputamen"
+        },
+        {
+            "acronym": "FS",
+            "fullname": "Striatum_FS",
+            "uid": [
+                868,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "FS",
+            "aba_fullname": "Fundus of striatum"
+        },
+        {
+            "acronym": "isl",
+            "fullname": "Striatum_isl",
+            "uid": [
+                869,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "isl",
+            "aba_fullname": "Islands of Calleja"
+        },
+        {
+            "acronym": "OT1",
+            "fullname": "Striatum_OT1",
+            "uid": [
+                870,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "OT1",
+            "aba_fullname": "Olfactory tubercle, molecular layer"
+        },
+        {
+            "acronym": "OT2",
+            "fullname": "Striatum_OT2",
+            "uid": [
+                871,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "OT2",
+            "aba_fullname": "Olfactory tubercle, pyramidal layer"
+        },
+        {
+            "acronym": "OT3",
+            "fullname": "Striatum_OT3",
+            "uid": [
+                872,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "OT3",
+            "aba_fullname": "Olfactory tubercle, polymorph layer"
+        },
+        {
+            "acronym": "Thalamus",
+            "fullname": "Thalamus",
+            "uid": [
+                896,
+                0,
+                0,
+                0
+            ],
+            "level": 1,
+            "children": [
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167
+            ],
+            "aba_acronym": "TH",
+            "aba_fullname": "Thalamus"
+        },
+        {
+            "acronym": "AD",
+            "fullname": "Thalamus_AD",
+            "uid": [
+                897,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "AD",
+            "aba_fullname": "Anterodorsal nucleus"
+        },
+        {
+            "acronym": "AV",
+            "fullname": "Thalamus_AV",
+            "uid": [
+                898,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "AV",
+            "aba_fullname": "Anteroventral nucleus of thalamus"
+        },
+        {
+            "acronym": "LD",
+            "fullname": "Thalamus_LD",
+            "uid": [
+                899,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "LD",
+            "aba_fullname": "Lateral dorsal nucleus of thalamus"
+        },
+        {
+            "acronym": "LP",
+            "fullname": "Thalamus_LP",
+            "uid": [
+                900,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "LP",
+            "aba_fullname": "Lateral posterior nucleus of the thalamus"
+        },
+        {
+            "acronym": "PF",
+            "fullname": "Thalamus_PF",
+            "uid": [
+                901,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "PF",
+            "aba_fullname": "Parafascicular nucleus"
+        },
+        {
+            "acronym": "PO",
+            "fullname": "Thalamus_PO",
+            "uid": [
+                902,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "PO",
+            "aba_fullname": "Posterior complex of the thalamus"
+        },
+        {
+            "acronym": "RT",
+            "fullname": "Thalamus_RT",
+            "uid": [
+                903,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "RT",
+            "aba_fullname": "Reticular nucleus of the thalamus"
+        },
+        {
+            "acronym": "SPFp",
+            "fullname": "Thalamus_SPFp",
+            "uid": [
+                904,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "SPFp",
+            "aba_fullname": "Subparafascicular nucleus, parvicellular part"
+        },
+        {
+            "acronym": "VAL",
+            "fullname": "Thalamus_VAL",
+            "uid": [
+                905,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "VAL",
+            "aba_fullname": "Ventral anterior-lateral complex of the thalamus"
+        },
+        {
+            "acronym": "VM",
+            "fullname": "Thalamus_VM",
+            "uid": [
+                906,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "VM",
+            "aba_fullname": "Ventral medial nucleus of the thalamus"
+        },
+        {
+            "acronym": "VPL",
+            "fullname": "Thalamus_VPL",
+            "uid": [
+                907,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "VPL",
+            "aba_fullname": "Ventral posterolateral nucleus of the thalamus"
+        },
+        {
+            "acronym": "VPM",
+            "fullname": "Thalamus_VPM",
+            "uid": [
+                908,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "VPM",
+            "aba_fullname": "Ventral posteromedial nucleus of the thalamus"
+        },
+        {
+            "acronym": "VPMpc",
+            "fullname": "Thalamus_VPMpc",
+            "uid": [
+                909,
+                0,
+                0,
+                0
+            ],
+            "level": 2,
+            "aba_acronym": "VPMpc",
+            "aba_fullname": "Ventral posteromedial nucleus of the thalamus, parvicellular part"
+        },
+        {
+            "acronym": "FibreTracts",
+            "fullname": "FibreTracts",
+            "uid": [
+                928,
+                0,
+                0,
+                0
+            ],
+            "level": 1,
+            "children": [],
+            "aba_acronym": "fiber tracts",
+            "aba_fullname": "fiber tracts"
+        }
+    ]
+}

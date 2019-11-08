@@ -1,0 +1,391 @@
+{
+    "regions_filename": "data/regions.json",
+    "matrices": {
+        "P7": "data/csv/dataset_P7.csv",
+        "P14-15": "data/csv/dataset_P14-15.csv",
+        "P21": "data/csv/dataset_P21.csv",
+        "1M": "data/csv/dataset_1M.csv",
+        "2M": "data/csv/dataset_2M.csv",
+        "3M": "data/csv/dataset_3M.csv",
+        "6M": "data/csv/dataset_6M.csv",
+        "12M": "data/csv/dataset_12M.csv",
+        "18M": "data/csv/dataset_18M.csv"
+    },
+    "masks": {
+        "P7": "data/masks/P7_cropped.png",
+        "P14-15": "data/masks/P14-15_cropped.png",
+        "P21": "data/masks/P21_cropped.png",
+        "1M": "data/masks/1M_cropped.png",
+        "2M": "data/masks/2M_cropped.png",
+        "3M": "data/masks/3M_cropped.png",
+        "6M": "data/masks/6M_cropped.png",
+        "12M": "data/masks/12M_cropped.png",
+        "18M": "data/masks/18M_cropped.png"
+    },
+    "presets": {
+        "P7": [
+            {
+                "matrix_id": "P7",
+                "mask_id": "P7",
+                "rect": [
+                    0,
+                    0,
+                    1024,
+                    768
+                ]
+            },
+            {
+                "matrix_id": "P7",
+                "rect": [
+                    1034,
+                    0,
+                    512,
+                    768
+                ]
+            }
+        ],
+        "P14-15": [
+            {
+                "matrix_id": "P14-15",
+                "mask_id": "P14-15",
+                "rect": [
+                    0,
+                    0,
+                    1024,
+                    768
+                ]
+            },
+            {
+                "matrix_id": "P14-15",
+                "rect": [
+                    1034,
+                    0,
+                    512,
+                    768
+                ]
+            }
+        ],
+        "P21": [
+            {
+                "matrix_id": "P21",
+                "mask_id": "P21",
+                "rect": [
+                    0,
+                    0,
+                    1024,
+                    768
+                ]
+            },
+            {
+                "matrix_id": "P21",
+                "rect": [
+                    1034,
+                    0,
+                    512,
+                    768
+                ]
+            }
+        ],
+        "1M": [
+            {
+                "matrix_id": "1M",
+                "mask_id": "1M",
+                "rect": [
+                    0,
+                    0,
+                    1024,
+                    768
+                ]
+            },
+            {
+                "matrix_id": "1M",
+                "rect": [
+                    1034,
+                    0,
+                    512,
+                    768
+                ]
+            }
+        ],
+        "2M": [
+            {
+                "matrix_id": "2M",
+                "mask_id": "2M",
+                "rect": [
+                    0,
+                    0,
+                    1024,
+                    768
+                ]
+            },
+            {
+                "matrix_id": "2M",
+                "rect": [
+                    1034,
+                    0,
+                    512,
+                    768
+                ]
+            }
+        ],
+        "3M": [
+            {
+                "matrix_id": "3M",
+                "mask_id": "3M",
+                "rect": [
+                    0,
+                    0,
+                    1024,
+                    768
+                ]
+            },
+            {
+                "matrix_id": "3M",
+                "rect": [
+                    1034,
+                    0,
+                    512,
+                    768
+                ]
+            }
+        ],
+        "6M": [
+            {
+                "matrix_id": "6M",
+                "mask_id": "6M",
+                "rect": [
+                    0,
+                    0,
+                    1024,
+                    768
+                ]
+            },
+            {
+                "matrix_id": "6M",
+                "rect": [
+                    1034,
+                    0,
+                    512,
+                    768
+                ]
+            }
+        ],
+        "12M": [
+            {
+                "matrix_id": "12M",
+                "mask_id": "12M",
+                "rect": [
+                    0,
+                    0,
+                    1024,
+                    768
+                ]
+            },
+            {
+                "matrix_id": "12M",
+                "rect": [
+                    1034,
+                    0,
+                    512,
+                    768
+                ]
+            }
+        ],
+        "18M": [
+            {
+                "matrix_id": "18M",
+                "mask_id": "18M",
+                "rect": [
+                    0,
+                    0,
+                    1024,
+                    768
+                ]
+            },
+            {
+                "matrix_id": "18M",
+                "rect": [
+                    1034,
+                    0,
+                    512,
+                    768
+                ]
+            }
+        ],
+        "Lifespan matrices": [
+            {
+                "matrix_id": "P7",
+                "rect": [
+                    0,
+                    0,
+                    550,
+                    750
+                ]
+            },
+            {
+                "matrix_id": "P14-15",
+                "rect": [
+                    560,
+                    0,
+                    550,
+                    750
+                ]
+            },
+            {
+                "matrix_id": "P21",
+                "rect": [
+                    1120,
+                    0,
+                    550,
+                    750
+                ]
+            },
+            {
+                "matrix_id": "1M",
+                "rect": [
+                    1680,
+                    0,
+                    550,
+                    750
+                ]
+            },
+            {
+                "matrix_id": "2M",
+                "rect": [
+                    2240,
+                    0,
+                    550,
+                    750
+                ]
+            },
+            {
+                "matrix_id": "3M",
+                "rect": [
+                    0,
+                    750,
+                    550,
+                    750
+                ]
+            },
+            {
+                "matrix_id": "6M",
+                "rect": [
+                    560,
+                    750,
+                    550,
+                    750
+                ]
+            },
+            {
+                "matrix_id": "12M",
+                "rect": [
+                    1120,
+                    750,
+                    550,
+                    750
+                ]
+            },
+            {
+                "matrix_id": "18M",
+                "rect": [
+                    1680,
+                    750,
+                    550,
+                    750
+                ]
+            }
+        ],
+        "Lifespan masks": [
+            {
+                "matrix_id": "P7",
+                "mask_id": "P7",
+                "rect": [
+                    0,
+                    0,
+                    550,
+                    400
+                ]
+            },
+            {
+                "matrix_id": "P14-15",
+                "mask_id": "P14-15",
+                "rect": [
+                    550,
+                    0,
+                    550,
+                    400
+                ]
+            },
+            {
+                "matrix_id": "P21",
+                "mask_id": "P21",
+                "rect": [
+                    1100,
+                    0,
+                    550,
+                    400
+                ]
+            },
+            {
+                "matrix_id": "1M",
+                "mask_id": "1M",
+                "rect": [
+                    1650,
+                    0,
+                    550,
+                    400
+                ]
+            },
+            {
+                "matrix_id": "2M",
+                "mask_id": "2M",
+                "rect": [
+                    2200,
+                    0,
+                    550,
+                    400
+                ]
+            },
+            {
+                "matrix_id": "3M",
+                "mask_id": "3M",
+                "rect": [
+                    0,
+                    400,
+                    550,
+                    400
+                ]
+            },
+            {
+                "matrix_id": "6M",
+                "mask_id": "6M",
+                "rect": [
+                    550,
+                    400,
+                    550,
+                    400
+                ]
+            },
+            {
+                "matrix_id": "12M",
+                "mask_id": "12M",
+                "rect": [
+                    1100,
+                    400,
+                    550,
+                    400
+                ]
+            },
+            {
+                "matrix_id": "18M",
+                "mask_id": "18M",
+                "rect": [
+                    1650,
+                    400,
+                    550,
+                    400
+                ]
+            }
+        ]
+    }
+}
