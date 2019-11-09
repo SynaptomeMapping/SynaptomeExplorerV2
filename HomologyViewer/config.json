@@ -1,9 +1,9 @@
 {
     "regions_filename": "data/regions.json",
     "matrices": {
-        "P7": "data/csv/dataset_P7.csv",
-        "P14-15": "data/csv/dataset_P14-15.csv",
-        "P21": "data/csv/dataset_P21.csv",
+        "1W": "data/csv/dataset_1W.csv",
+        "2W": "data/csv/dataset_2W.csv",
+        "3W": "data/csv/dataset_3W.csv",
         "1M": "data/csv/dataset_1M.csv",
         "2M": "data/csv/dataset_2M.csv",
         "3M": "data/csv/dataset_3M.csv",
@@ -12,9 +12,9 @@
         "18M": "data/csv/dataset_18M.csv"
     },
     "masks": {
-        "P7": "data/masks/P7_cropped.png",
-        "P14-15": "data/masks/P14-15_cropped.png",
-        "P21": "data/masks/P21_cropped.png",
+        "1W": "data/masks/1W_cropped.png",
+        "2W": "data/masks/2W_cropped.png",
+        "3W": "data/masks/3W_cropped.png",
         "1M": "data/masks/1M_cropped.png",
         "2M": "data/masks/2M_cropped.png",
         "3M": "data/masks/3M_cropped.png",
@@ -23,10 +23,10 @@
         "18M": "data/masks/18M_cropped.png"
     },
     "presets": {
-        "P7": [
+        "1W": [
             {
-                "matrix_id": "P7",
-                "mask_id": "P7",
+                "matrix_id": "1W",
+                "mask_id": "1W",
                 "rect": [
                     0,
                     0,
@@ -35,7 +35,7 @@
                 ]
             },
             {
-                "matrix_id": "P7",
+                "matrix_id": "1W",
                 "rect": [
                     1034,
                     0,
@@ -44,10 +44,10 @@
                 ]
             }
         ],
-        "P14-15": [
+        "2W": [
             {
-                "matrix_id": "P14-15",
-                "mask_id": "P14-15",
+                "matrix_id": "2W",
+                "mask_id": "2W",
                 "rect": [
                     0,
                     0,
@@ -56,7 +56,7 @@
                 ]
             },
             {
-                "matrix_id": "P14-15",
+                "matrix_id": "2W",
                 "rect": [
                     1034,
                     0,
@@ -65,10 +65,10 @@
                 ]
             }
         ],
-        "P21": [
+        "3W": [
             {
-                "matrix_id": "P21",
-                "mask_id": "P21",
+                "matrix_id": "3W",
+                "mask_id": "3W",
                 "rect": [
                     0,
                     0,
@@ -77,7 +77,7 @@
                 ]
             },
             {
-                "matrix_id": "P21",
+                "matrix_id": "3W",
                 "rect": [
                     1034,
                     0,
@@ -214,7 +214,7 @@
         ],
         "Lifespan matrices": [
             {
-                "matrix_id": "P7",
+                "matrix_id": "1W",
                 "rect": [
                     0,
                     0,
@@ -223,7 +223,7 @@
                 ]
             },
             {
-                "matrix_id": "P14-15",
+                "matrix_id": "2W",
                 "rect": [
                     560,
                     0,
@@ -232,7 +232,7 @@
                 ]
             },
             {
-                "matrix_id": "P21",
+                "matrix_id": "3W",
                 "rect": [
                     1120,
                     0,
@@ -297,8 +297,8 @@
         ],
         "Lifespan masks": [
             {
-                "matrix_id": "P7",
-                "mask_id": "P7",
+                "matrix_id": "1W",
+                "mask_id": "1W",
                 "rect": [
                     0,
                     0,
@@ -307,8 +307,8 @@
                 ]
             },
             {
-                "matrix_id": "P14-15",
-                "mask_id": "P14-15",
+                "matrix_id": "2W",
+                "mask_id": "2W",
                 "rect": [
                     550,
                     0,
@@ -317,8 +317,8 @@
                 ]
             },
             {
-                "matrix_id": "P21",
-                "mask_id": "P21",
+                "matrix_id": "3W",
+                "mask_id": "3W",
                 "rect": [
                     1100,
                     0,

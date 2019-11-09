@@ -490,7 +490,7 @@ _matrices = json_config['matrices']
 
 preset = None 
 if len(sys.argv) > 1:
-    parser = argparse.ArgumentParser(description='View one or more datasets, using image mode (--image), matrix mode (--matrix) or both (default, no arguments needed)', epilog="Available datasets are 1M 2M 3M 6M 12M 18M P7 P14-15 P21")
+    parser = argparse.ArgumentParser(description='View one or more datasets, using image mode (--image), matrix mode (--matrix) or both (default, no arguments needed)', epilog="Available datasets are 1W 2W 3W 1M 2M 3M 6M 12M 18M")
     group = parser.add_mutually_exclusive_group()
     group.add_argument("-i", "--image", help="image mode ONLY for loaded datasets",action="store_true")
     group.add_argument("-m", "--matrix", help="matrix mode ONLY for loaded datasets",action="store_true")
