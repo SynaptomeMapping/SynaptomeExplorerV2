@@ -8,7 +8,7 @@ The application executable is synaptome_explorer_v2.exe
 
 The datasets can be found in: [TBD]
 
-The first time the application is executed with a particular dataset, intermediate files are generated, that will be used to accelerate future runs. The generation time of these intermediate files can vary from several seconds to a few minutes.
+The first time the application is executed with a particular dataset, intermediate files are generated, that will be used to accelerate future runs. The generation time of these intermediate files can vary from several seconds to a few minutes. The intermediate files are placed in a folder called "RuntimeCache", under the working directory at the time of execution.
 
 For further description and how to use instructions, please refer to synaptome_explorer_v2.pdf
 
