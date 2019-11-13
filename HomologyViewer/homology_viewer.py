@@ -3,7 +3,6 @@ import os
 import json
 import tkinter as tk
 from tkinter import ttk
-import imageio
 import numpy as np
 import glob
 import PIL
@@ -82,6 +81,34 @@ def heatmap_for_component( x, k ):
         255 * (k == 3)
     return m.astype(np.uint8)
 
+def delineation_name_to_color( name ):
+    # Colors as in paper
+    names_to_colors = {
+        "Isocortex" : "#00aee2",
+        "OlfactoryAreas" : "#270c0e",
+        "Hippocampus" : "#ea4f96",
+        "CorticalSubplate" : "#ffe295",
+        "Striatum" : "#00562b",
+        "Pallidum" : "#0c4597",
+        "Thalamus" : "#6cbfa5",
+        "Hypothalamus" : "#f7c4dc",
+        "Midbrain" : "#aa5017",
+        "Pons" : "#dada00",
+        "Medulla" : "#eb5e7d",
+        "Cerebellum" : "#004f56",
+    }
+    return names_to_colors[name]
+    
+def rgb_to_hex(rgb):
+    return '#%02x%02x%02x' % rgb
+    
+def hex_to_rgb(hex):
+    return tuple(int(hex[i:i+2], 16) for i in (1, 3, 5))
+    
+def invert_hexcode( hexcode ):
+    rgb = hex_to_rgb(hexcode)
+    rgb2 = (255-rgb[0], 255-rgb[1],255-rgb[2])
+    return rgb_to_hex(rgb2)
 
 class Matrix:
     """
@@ -272,7 +299,7 @@ class Layout:
     def create_regiongroup_rects( x0,y0, canvas, matrix, ppc):
         def create_rectangle( o, N, name, canvas, iter):
             
-            colors = ['red', 'green', 'blue', 'magenta']
+            color = delineation_name_to_color(name)
             print(name,o,N)
             p0x = x0 + o*ppc
             w = N*ppc -1
@@ -280,14 +307,18 @@ class Layout:
             p0y = y0
             p1y = y0 + 10
             print(f"Creating rect {p0x} {p0y} {p1x} {p1y}")
-            celem = canvas.create_rectangle( p0x, p0y, p1x, p1y, fill=colors[iter % 4])
+            celem = canvas.create_rectangle( p0x, p0y, p1x, p1y, fill=color)
             canvas.tag_raise( celem)
             
             x = (p0x + p1x) >> 1
             y = (p0y + p1y) >> 1
             yoff = (iter % 3) * 15 + 15
             
-            celem = canvas.create_text((x, y + yoff), text=name, fill=colors[iter % 4])
+            celem = canvas.create_text((x, y + yoff), text=name)
+            #bbox = canvas.bbox(celem)
+            #celem2 = canvas.create_rectangle( bbox[0], bbox[1], bbox[2], bbox[3], fill= color)
+            #print("bbox: ", str(bbox))
+            #canvas.tag_raise( celem2)
             canvas.tag_raise( celem)
         
         offset = 0

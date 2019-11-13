@@ -15,3 +15,9 @@ For further description and how to use instructions, please refer to synaptome_e
 # Homology Viewer
 
 Homology Viewer is a tool that enables interactive visualization of similarity matrices whose values correspond to brain regions/subregions, puts the data in a spatial context and allows simultaneous visualization of different brain section data that are delineated similarly. Users can hover over a brain region or a similarity matrix entry and immediately see how that region is similar to all other regions using a heatmap. Likewise, when using multiple brain regions, users can visualize how a hovered-over region in a brain section is similar to all other regions in all other brain sections. Thus, the tool makes the results of similarity matrices visually accessible owing to the direct mapping of the data on the brain section(s).
+
+To run Homology Viewer, you need python 3 and the following libraries installed:
+* tkinter
+* PIL
+* numpy
+* matplotlib
