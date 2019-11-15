@@ -21,3 +21,5 @@ To run Homology Viewer, you need python 3 and the following libraries installed:
 * PIL
 * numpy
 * matplotlib
+
+For further description and how to use instructions, please refer to homology_viewer.pdf
