@@ -572,8 +572,21 @@ layout = None
 
 presets = list(json_config['presets'].keys())
 
+topframe = tk.Frame(height=20)
+tk.Label(topframe, text="Colormap [0-1]:  ").pack(side="left")
+# create colormap canvas and fill with the colors
+cmap_canvas = tk.Canvas(topframe, width=256, height=20)
+cmap_canvas.pack(side="left")
+vals01 = np.expand_dims( np.repeat( np.expand_dims(np.linspace(0,1, num=256),0), repeats=20, axis=0 ), 2)
+array = np.concatenate( (heatmap_r(vals01), heatmap_g(vals01), heatmap_b(vals01)), 2).astype(np.uint8)
+arrayimg = Image.fromarray(array)
+img =  ImageTk.PhotoImage(image=arrayimg)
+cmap_canvas.create_image(0,0,anchor = 'nw', image=img)
+
+# Conditionally add the combobox with the presets
 if not preset:
-    combo = ttk.Combobox(root, values=presets)
+    tk.Label(topframe, text="  Preset: ").pack(side="left")
+    combo = ttk.Combobox(topframe, values=presets)
     def onPresetChanged(event):
         global layout
         global combo
@@ -592,6 +605,7 @@ if not preset:
 else:
     
     layout = Layout( preset, dids)
+topframe.pack()
 layout.canvas.pack()
 tk.Label('').pack()
 
