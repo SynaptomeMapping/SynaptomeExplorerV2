@@ -6,6 +6,8 @@ Synaptome Explorer is used for in-depth exploration of the synaptome of a single
 
 The application executable is synaptome_explorer_v2.exe
 
+Synaptome Explorer requires Windows 10 operating system with at least 4GB of RAM, with graphics drivers supporting OpenGL 4.5. This version of OpenGL is required for the advanced GPU-based processing and visualization capabilities that it enables, such as sparse textures which are used for the full-resolution section visualization. Currently, Linux and Mac computers can run the software via dual booting (Mac using Boot Camp), as long as the hardware requirements are met, and the graphics drivers support OpenGL 4.5. On Windows, driver support for OpenGL version can be identified using (free) third-party utilities, such as GPU-Z.
+
 The datasets can be downloaded [here](https://doi.org/10.7488/ds/2711) as the single, compressed file [lifespan_datasets.tar.bz2](https://datashare.is.ed.ac.uk/bitstream/handle/10283/3509/lifespan_datasets.tar.bz2?sequence=1&isAllowed=y)
 
 The first time the application is executed with a particular dataset, intermediate files are generated, that will be used to accelerate future runs. The generation time of these intermediate files can vary from several seconds to a few minutes. The intermediate files are placed in a folder called "RuntimeCache", under the working directory at the time of execution.
